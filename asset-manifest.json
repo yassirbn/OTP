@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OTP/static/css/main.b3ccc9de.css",
+    "main.js": "/OTP/static/js/main.ec641e48.js",
+    "static/js/453.2d3825e4.chunk.js": "/OTP/static/js/453.2d3825e4.chunk.js",
+    "index.html": "/OTP/index.html",
+    "main.b3ccc9de.css.map": "/OTP/static/css/main.b3ccc9de.css.map",
+    "main.ec641e48.js.map": "/OTP/static/js/main.ec641e48.js.map",
+    "453.2d3825e4.chunk.js.map": "/OTP/static/js/453.2d3825e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3ccc9de.css",
+    "static/js/main.ec641e48.js"
+  ]
+}
